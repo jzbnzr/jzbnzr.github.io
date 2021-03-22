@@ -1,2 +1,2 @@
-# jzbnzr.github.io
-I love snyder cut
+# AWESOMEPIEMAN.github.io
+This is my first web host
